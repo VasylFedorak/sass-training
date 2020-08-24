@@ -1,0 +1,18 @@
+.section {
+  color: aqua;
+
+  &-text {
+    background-color: blue;
+  }
+
+  &:hover {
+    font-size: 35px;
+  }
+}
+
+$icons: "facebook", "linkedin", "instagram";
+@each $iconName in $icons {
+  .icon-#{$iconName} {
+    background-color: burlywood;
+  }
+}

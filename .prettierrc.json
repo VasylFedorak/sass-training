@@ -1,0 +1,11 @@
+{
+  " PrintWidth ": 80,
+  " TabWidth ": 2,
+  " UseTabs ": false,
+  " Semi ": true,
+  " SingleQuote ": true,
+  " TrailingComma ": " all ",
+  " BracketSpacing ": true,
+  " ArrowParens ": " avoid ",
+  " ProseWrap ": " always "
+}
